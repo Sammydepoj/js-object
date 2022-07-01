@@ -1,0 +1,16 @@
+table,
+        th,
+        td {
+            border: 1px solid black;
+
+        }
+
+        table{
+            margin:2rem auto;
+            padding:2rem ;
+        }
+
+.tablebody{
+    background-color: yellowgreen;
+    padding: 2rem;
+}        
